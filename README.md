@@ -6,7 +6,7 @@
     <img src="http://logonoid.com/images/anonymous-logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">About me</h3>
+  <h3 align="center">Nix</h3>
 
   <p align="center">
     <br />
