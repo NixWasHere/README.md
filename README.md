@@ -17,7 +17,9 @@
 ## About me
 
 * From Croatia
-* Hacker
+* Hacker i guess
+* retard for sure
+* programmer i guess
 * no more
 
 * Discord: Nix#4016
